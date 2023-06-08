@@ -113,3 +113,14 @@ body {
 .task-stats .task-comp span{
     background-color: #E91E63;
 }
+p {
+    color: white;
+    text-align: center;
+    font: 13px;
+    padding: 390px 0 10px;
+}
+p a {
+    text-decoration: none;
+    border-bottom: white 1px solid;
+    color:#fdfdfd8c;
+}
